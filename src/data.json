@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "image": "img2.jpg",
+    "title": "Hotel Dream Inn",
+    "description": "Luxury hotel with stunning views",
+    "price": 100,
+    "rating": 4.8,
+    "location": "Los Angeles, CA",
+    "bedrooms": 2,
+    "amenities": ["Free Wi-Fi", "Pool", "Gym"]
+  },
+  {
+    "id": 2,
+    "image": "img5.jpg",
+    "title": "Hotel Paradise",
+    "description": "A peaceful retreat with beautiful surroundings",
+    "price": 249,
+    "rating": 4.6,
+    "location": "Miami, FL",
+    "bedrooms": 3,
+    "amenities": ["Breakfast Included", "Beachfront", "Spa"]
+  },
+  {
+    "id": 3,
+    "image": "img4.jpg",
+    "title": "City Lights Hotel",
+    "description": "Modern hotel in the heart of the city",
+    "price": 179,
+    "rating": 4.7,
+    "location": "New York, NY",
+    "bedrooms": 1,
+    "amenities": ["Free Wi-Fi", "Room Service", "24/7 Service"]
+  },
+  {
+    "id": 4,
+    "image": "img6.jpg",
+    "title": "Ginger Patna",
+    "description": "Streamlined rooms & suites",
+    "price": 179,
+    "rating": 4.7,
+    "location": "Patna, BR",
+    "bedrooms": 1,
+    "amenities": ["3-Star Hotel", "Rooftop Bar", "24/7 Service"]
+  },
+  {
+    "id": 5,
+    "image": "img7.jpg",
+    "title": "Patliputra Continental",
+    "description": "Elegant hotel with upscale amenities",
+    "price": 229,
+    "rating": 4.5,
+    "location": "Patna, BR",
+    "bedrooms": 3,
+    "amenities": ["Free Wi-Fi", "Restaurant", "Swimming Pool"]
+  },
+  {
+    "id": 6,
+    "image": "img8.jpg",
+    "title": "The Oberoi Mumbai",
+    "description": "Luxury hotel with an ocean view",
+    "price": 399,
+    "rating": 4.9,
+    "location": "Mumbai, MH",
+    "bedrooms": 4,
+    "amenities": ["Spa", "Fitness Center", "Fine Dining"]
+  },
+  {
+    "id": 7,
+    "image": "img9.jpg",
+    "title": "Taj Mahal Palace",
+    "description": "Iconic hotel with historic charm",
+    "price": 350,
+    "rating": 4.8,
+    "location": "Mumbai, MH",
+    "bedrooms": 3,
+    "amenities": ["Heritage Property", "Rooftop Pool", "Sea View"]
+  },
+  {
+    "id": 8,
+    "image": "img10.jpg",
+    "title": "The Leela Palace",
+    "description": "Lavish hotel with opulent interiors",
+    "price": 399,
+    "rating": 4.8,
+    "location": "New Delhi, DL",
+    "bedrooms": 5,
+    "amenities": ["Butler Service", "Private Pool", "Spa"]
+  },
+  {
+    "id": 9,
+    "image": "img11.jpg",
+    "title": "ITC Maurya",
+    "description": "Luxurious hotel with green surroundings",
+    "price": 329,
+    "rating": 4.7,
+    "location": "New Delhi, DL",
+    "bedrooms": 4,
+    "amenities": ["Eco-friendly", "Fine Dining", "Spa"]
+  },
+  {
+    "id": 10,
+    "image": "img12.jpeg",
+    "title": "Radisson Blu Marina",
+    "description": "Contemporary hotel in Connaught Place",
+    "price": 279,
+    "rating": 4.6,
+    "location": "New Delhi, DL",
+    "bedrooms": 2,
+    "amenities": ["Business Center", "Fitness Studio", "Bar"]
+  }
+]
